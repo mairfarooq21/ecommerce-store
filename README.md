@@ -1,27 +1,32 @@
 ## <a name="introduction"> Introduction</a>
 
-Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+NovaMart is a complete ecommerce website offering a streamlined and user-friendly shopping experience.
 
 Website hosted here -> <a href=https://ecom-app-833a8.web.app/>Link</a>
 
 ## <a name="tech-stack"> Tech Stack</a>
 
-- Next.js
+- React.js
 - Tailwind CSS
+- Firebase
 
 ## <a name="features"> Features</a>
 
- **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
+ **Fully Responsive Design**: Ensures an optimal viewing experience across all devices, from mobile to desktop.
 
- **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+ **User Authentication**: Secure login and registration system with Firebase authentication.
 
- **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
+ **Payment Gateway Integration**: Smooth and reliable checkout process with integrated payment options.
 
- **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
+ **Admin Dashboard**: Easily manage products, including adding, updating, and deleting items.
 
- **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
+ **Product Catalog**: Browse and search through various product categories.
 
-and many more, including code architecture and reusability 
+**Order Management**: Track and manage user orders efficiently.
+
+**Real-time Database**: Firebase integration for real-time updates on product availability and user data.
+
+**Tailwind CSS Styling**: Sleek and modern design using Tailwind CSS for fast and customizable styling
 
 ## <a name="quick-start"> Quick Start</a>
 
