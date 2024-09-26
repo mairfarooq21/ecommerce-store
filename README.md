@@ -44,7 +44,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/mairfarooq21/ecommerce-store.git
-cd travel-app
 ```
 
 **Installation**
