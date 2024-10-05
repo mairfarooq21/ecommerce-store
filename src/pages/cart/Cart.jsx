@@ -44,9 +44,7 @@ function Cart() {
   const grandTotal = shipping + totalAmout;
   // console.log(grandTotal)
 
-  /**========================================================================
-   *!                           Payment Intigration
-   *========================================================================**/ 
+  /*Payment Intigration*/ 
 
   const [name, setName] = useState("")
   const [address, setAddress] = useState("");
