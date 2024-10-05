@@ -1,7 +1,5 @@
 import React, { Fragment, useContext, useState } from 'react'
 import myContext from '../../context/data/myContext';
-// import { BsFillCloudSunFill } from 'react-icons/bs'
-// import { FiSun } from 'react-icons/fi'
 import { Link } from 'react-router-dom';
 import { Dialog, Transition } from '@headlessui/react'
 import { RxCross2 } from 'react-icons/rx'
