@@ -11,7 +11,6 @@ function DashboardTab() {
     const context = useContext(myContext)
     const { mode, product, edithandle, deleteProduct, order, user } = context
 
-    // console.log(product)
     let [isOpen, setIsOpen] = useState(false)
 
     function closeModal() {
@@ -145,7 +144,6 @@ function DashboardTab() {
                         </TabPanel>
 
                         <TabPanel>
-                            {/* <Order order={order} setOrder={setOrder} setLoading={setLoading} /> */}
                             <div className="relative overflow-x-auto mb-16">
                                 <h1 className=' text-center mb-5 text-3xl font-semibold text-black' style={{ color: mode === 'dark' ? 'white' : '' }}>Order Details</h1>
 
